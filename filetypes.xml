@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="we_addr_list" type="Native" />
-      <mapping pattern="we_addr_list.ejs" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
